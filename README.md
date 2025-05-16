@@ -1,14 +1,16 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-
-**AIM:**
+## NAME : YADHAV G P
+## REG NO : 212223230247
+## DATE : 
+*AIM:*
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:** Quartus prime
+*SOFTWARE REQUIRED:* Quartus prime
 
-**THEORY**
+*THEORY*
 
-**Encoder 8 To 3**
+*Encoder 8 To 3*
 
 The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line encoder, there is a total of eight inputs, i.e., D0, D1, D2, D3, D4, D5, D6, and D7 and three outputs, i.e., A0, A1, and A2. In 8-input lines, one input-line is set to true at a time to get the respective binary code in the output side. Below are the block diagram and the truth table of the 8 to 3 line encoder.
 
@@ -16,7 +18,7 @@ The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
-**Truth Table**
+*Truth Table*
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 
@@ -34,23 +36,25 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
+*Procedure*
 
 /* write all the steps invloved */
 
-**PROGRAM**
+*PROGRAM*
+
+<img width="328" alt="Screenshot 2024-12-24 104023" src="https://github.com/user-attachments/assets/4d69bd8a-698e-4f1d-9778-099b771bda58" />
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+
 */
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+*RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling*
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+<img width="633" alt="Screenshot 2024-12-24 104217" src="https://github.com/user-attachments/assets/750eaf2f-0ce0-4bac-ab2c-a2f0226ddeb4" />
 
-**RESULTS**
+*TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling*
 
+<img width="635" alt="Screenshot 2024-12-24 104348" src="https://github.com/user-attachments/assets/f4621808-62b0-4d73-8fde-f90315521549" />
 
-
-
+*RESULT:Thus the output is verfied*
